@@ -2350,10 +2350,10 @@ firebase-admin@8.10.0:
     "@google-cloud/firestore" "^3.0.0"
     "@google-cloud/storage" "^4.1.2"
 
-firebase-functions-test@0.2.0:
-  version "0.2.0"
-  resolved "https://registry.yarnpkg.com/firebase-functions-test/-/firebase-functions-test-0.2.0.tgz#797125d56c23ac6b175a9308cc7887c669d4bdb0"
-  integrity sha512-ItONnirBztDIMVgrUeb3sTFfNHnlRhaMopQfTjWt2FZ8COvX946FzgvKMQT708LGwiUVXW/4OjfAOKaW8A2nMw==
+firebase-functions-test@0.2.2:
+  version "0.2.2"
+  resolved "https://registry.yarnpkg.com/firebase-functions-test/-/firebase-functions-test-0.2.2.tgz#d2d96de17af45cf9e0e4e2f5e6c951a9e8e8c3ca"
+  integrity sha512-SlHLnpKRn5nMsg4Y0CUTGs/R8NatghJCYZGw3fHzaS/5xDqwWPWuxmdHHc+MSuxrSrUROEwOrDTwrbjmRaSNjw==
   dependencies:
     "@types/lodash" "^4.14.104"
     lodash "^4.17.5"
